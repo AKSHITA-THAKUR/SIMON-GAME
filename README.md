@@ -1,1 +1,1 @@
-# SIMON-GAME
+Simon Game is a classic memory and pattern-recognition game created using the powerful combination of HTML, CSS, and JavaScript. This engaging and addictive game challenges your memory skills as you attempt to replicate a sequence of colors.The game boasts an intuitive and user-friendly interface, making it accessible for players of all ages. The layout is clean and uncluttered, focusing on the core gameplay.
